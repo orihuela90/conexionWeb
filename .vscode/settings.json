@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dff9e176-db26-4771-b24c-ff08098fa7b8/resourceGroups/grupoMysqlApp/providers/Microsoft.Web/sites/conexionMysql",
+    "appService.deploySubpath": "."
+}

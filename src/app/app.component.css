@@ -1,0 +1,39 @@
+table{
+    border: 1px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.botonesMargen{
+  margin-top: 10px;
+}
+
+/**
+// conjunto para mostrar input en rojo si no estan rellenos
+input[type="text"],
+input[type="number"]
+fieldset {
+  width : 100%;
+  
+}
+
+input:invalid {
+    box-shadow: 0 0 1px 1px red;
+    box-sizing: border-box;
+  }
+  
+  input:focus:invalid {
+    box-shadow: none;
+  }
+  **/
